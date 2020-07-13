@@ -1,3 +1,4 @@
-# simple command script /info it will show the server information
+# STEVEN DODGE PRODUCTIONS INFO SCRIPT
 
-MAKE SURE YOU EDIT THE INFO.LUA AND SET UP YOUR LINKS
+a player will do /info and it will send your server information.
+MAKE SURE YOU EDIT THE INFO.LUA AND SET UP YOUR LINKS.
