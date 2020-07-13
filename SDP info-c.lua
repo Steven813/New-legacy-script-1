@@ -6,16 +6,14 @@
 
 
 -- You can add other messages by just doung msg(text here: another text here) you can do that in all message just follow the template. 
---When this is exectuted, it will execute a function, doing the msg function to the client
 RegisterCommand('info', function()
     msg("Discord: put your discord link")
     msg("Website: website link")
     msg("teamspeak: teamspeak link")
     msg("donations: link")
 	msg("youtube: subscribe to michael productions"
-end, false)
+end, true)
 
--- Do not touch anything down here.
 function msg(text)
     -- You can change the server text to anything you want but dont touch other things
     TriggerEvent("chatMessage",  "[server]", {255,0,0}, text)
