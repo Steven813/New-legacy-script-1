@@ -8,6 +8,7 @@ MAKE SURE YOU EDIT THE INFO.LUA AND SET UP YOUR LINKS.
 download the script
 create a new folder name it SDP-info-script
 put the lua files on the folder 
+rename the resource file to __resource.lua
 add start SDP-info-script in your server cfg
 
 enjoy
